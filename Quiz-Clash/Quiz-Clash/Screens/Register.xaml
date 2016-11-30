@@ -1,0 +1,65 @@
+﻿<Window x:Class="Quiz_Clash.Screens.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Register" Height="850" Width="725"  WindowState="Maximized">
+    <Grid ShowGridLines="False" Style="{StaticResource BackgroundStyle }">
+        <Grid.RowDefinitions >
+            <RowDefinition Height="*" ></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <!--logo-->
+        <Image Grid.Row="0" Grid.Column="1"  Source="/Quiz-Clash;component/Images/logo.jpg" Stretch="Fill"  />
+        <!--logo-->
+
+        <Label Content="User Register " Margin="20,20,20,20" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Name="lblNote"  FontSize="22" FontWeight="Bold" Foreground="White"></Label>
+
+        <Grid Name="grd_reg" ShowGridLines="False" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="20,20,20,20">
+
+            <Grid.RowDefinitions >
+                <RowDefinition Height="Auto" ></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="First Name :" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Foreground="White"></Label>
+            <Label Content="Last Name :" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Foreground="White"></Label>
+            <Label Content="User name :" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Foreground="White"></Label>
+            <Label Content="Email Address :" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Foreground="White"></Label>
+            <Label Content="Password :" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Foreground="White"></Label>
+            <TextBox Name="txt_Fname" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Width="150" Margin="10,10,10,10"></TextBox>
+            <TextBox Name="txt_Lname" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Width="150" Margin="10,10,10,10"></TextBox>
+            <TextBox Name="txt_Uname" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Width="150" Margin="10,10,10,10"></TextBox>
+            <DockPanel Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" >
+                <TextBox Name="txt_email"  DockPanel.Dock="Left" FontSize="16" FontWeight="Bold" Width="120" Margin="10,10,10,10" ></TextBox>
+                <Label Name="lblat" Content="@" Margin="10,10,10,10" FontSize="16" FontWeight="Bold"  Foreground="White"></Label>
+                <ComboBox Name="cmb_Email_Ext"  ItemContainerStyle="{DynamicResource cbmstyl}" DockPanel.Dock="Right" FontSize="16" FontWeight="Bold" Width="auto" Margin="5,10,10,10" SelectionChanged="cmb_Email_Ext_SelectionChanged">
+                   
+                    
+                </ComboBox>
+                
+            </DockPanel>
+            <PasswordBox Name="txt_pass" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" FontSize="16" FontWeight="Bold" Width="150" Margin="10,10,10,10"></PasswordBox>
+        </Grid>
+     <Label  Name="Policy"  Margin="20,20,20,20" Grid.Row="3"  HorizontalAlignment="Center" HorizontalContentAlignment="Center"   FontSize="18" FontWeight="Bold" Foreground="White">
+        </Label>
+
+        <Button Background="White" Name="btn_reg" Content="Submit" Grid.Row="4" Height="50" Width="240" FontSize="18" FontWeight="Bold" Foreground="CadetBlue" Click="btn_reg_Click"></Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\bin\Debug\Quiz-Clash.exe.config
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\bin\Debug\Quiz-Clash.exe
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\AddQuestions.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\ChangePassword.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Game.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Login.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\MainWindow.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Resources\Style.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Logout.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Register.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Roundlogin.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Rounds.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\App.baml
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\AddQuestions.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\ChangePassword.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Game.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Login.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\MainWindow.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Logout.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Register.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Roundlogin.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Screens\Rounds.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\App.g.cs
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash_MarkupCompile.cache
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.g.resources
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz_Clash.Properties.Resources.resources
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.csproj.GenerateResource.Cache
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.exe
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.pdb
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\bin\Debug\Quiz-Clash.pdb
+C:\Users\ChHassan\Documents\Visual Studio 2013\Projects\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.csprojResolveAssemblyReference.cache
+C:\Users\ChHassan\Desktop\TaskSubmission\Quiz-Clash\Quiz-Clash\bin\Debug\Quiz-Clash.exe.config
+C:\Users\ChHassan\Desktop\TaskSubmission\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.exe
+C:\Users\ChHassan\Desktop\TaskSubmission\Quiz-Clash\Quiz-Clash\obj\Debug\Quiz-Clash.pdb
